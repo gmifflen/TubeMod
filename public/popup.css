@@ -145,7 +145,6 @@ input:checked + .slider:before {
 }
 
 .collapsible {
-  padding-left: 1rem;
   cursor: pointer;
   width: 100%;
   outline: none;
